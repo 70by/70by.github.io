@@ -3,6 +3,33 @@
   
     
     <entry>
+      <title>实验</title>
+      <link href="/2018/11/27/shi-yan/"/>
+      <url>/2018/11/27/shi-yan/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>一篇新文章</title>
       <link href="/2018/11/26/yi-pian-xin-wen-zhang/"/>
       <url>/2018/11/26/yi-pian-xin-wen-zhang/</url>
@@ -43,31 +70,6 @@
         <content type="html"><![CDATA[]]></content>
       
       
-      
-    </entry>
-    
-    <entry>
-      <title>typora-vue-theme主题介绍</title>
-      <link href="/2018/09/07/shi-yan/"/>
-      <url>/2018/09/07/shi-yan/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
       
     </entry>
     
