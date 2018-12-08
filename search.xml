@@ -3,11 +3,99 @@
   
     
     <entry>
-      <title>器械的使用</title>
-      <link href="/2018/12/05/qi-jie-de-shi-yong/"/>
-      <url>/2018/12/05/qi-jie-de-shi-yong/</url>
+      <title>Markdown</title>
+      <link href="/2018/12/08/markdown/"/>
+      <url>/2018/12/08/markdown/</url>
       
-        <content type="html"><![CDATA[<p><a href="https://jingyan.baidu.com/article/a681b0de6d71213b184346cd.html" target="_blank" rel="noopener">https://jingyan.baidu.com/article/a681b0de6d71213b184346cd.html</a></p><h1 id="坐姿腿屈伸"><a href="#坐姿腿屈伸" class="headerlink" title="坐姿腿屈伸"></a>坐姿腿屈伸</h1><p>锻炼部位：股四头肌和股二头肌<br>很多人的腿部肌肉是发展不平衡的，深蹲时又会优先使用力量较强的肌肉，这就导致力量较弱的肌肉得不到锻炼。而有选择的使用这两个器械可以使得你的腿部肌肉得到均衡的锻炼，使得腿部力量更加均衡。</p><p>坐姿腿屈伸是锻炼股四头肌群的孤立发力动作，一般安排在深蹲之后的第二或第三个动作。做的时候注意几个要点：</p><p>1.调整坐姿，让器械转动轴对准膝盖位置 这样可以最大保护膝关节<br><img src="https://pic4.zhimg.com/v2-ea7d8feaeb2e106ae797fcb0f8312e8b_b.jpg" alt="同水平线"></p><p>2.双手抓住握把，勾起脚尖，用力伸直大腿</p><p>3.双腿缓慢还原，不能直接放松下落<br> 快起慢放，在动作的顶点要稍作停留，约一秒。放下时要控制器械下落速度，感受股四头肌被拉伸。</p><p> 核心肌要收紧，挺胸抬头。每组14-16次。</p><p>4 组间隔30秒，使用自己最大重量的75%，做6组。</p><p>5 集中精力感受股四头肌收缩。伸腿时呼气，曲腿时吸气</p>]]></content>
+        <content type="html"><![CDATA[<p>Markdown是一种纯文本格式的标记语言，通过简单的标记语法，他可以使普通文本内容具有一定的格式。</p><p>一 标题<br>在想要设置为标题的文字前面加#来表示<br>一个#是一级标题，两个#是二级标题，以此类推，支持六级标题。<br>注：标准语法一般在#后面跟个空格再写文字<br>二、字体<br>加粗<br>要加粗的文字左右分别用两个*号包起来</p><p>斜体<br>要倾斜的文字左右分别用一个*号包起来</p><p>斜体加粗<br>要倾斜和加粗的文字左右分别用三个*号包起来</p><p>删除线<br>要加删除线的文字左右分别用两个~~号包起来<br>三、引用<br>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;</p><p>四、分割线<br>三个或者三个以上的 - 或者 * 都可以。<br>五、图片<br>语法：</p><p><img src="图片地址" alt="图片alt" title="&#39;图片title&#39;"></p><p>图片alt就是显示在图片下面的文字，相当于对图片内容的解释。<br>图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</p><p>六、超链接<br>语法：</p><p><a href="超链接地址" title="超链接title">超链接名</a><br>title可加可不加<br>注：Markdown本身语法不支持链接在新页面中打开，貌似简书做了处理，是可以的。别的平台可能就不行了，如果想要在新页面中打开的话可以用html语言的a标签代替。<br><a href="超链接地址" target="_blank">超链接名</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>编程</title>
+      <link href="/2018/12/08/bian-cheng/"/>
+      <url>/2018/12/08/bian-cheng/</url>
+      
+        <content type="html"><![CDATA[<p>学习Python<br>学习JavaScript</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>学习一门编程语言</title>
+      <link href="/2018/12/08/xue-xi-yi-men-bian-cheng-yu-yan/"/>
+      <url>/2018/12/08/xue-xi-yi-men-bian-cheng-yu-yan/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>常用网址</title>
+      <link href="/2018/12/08/chang-yong-wang-zhi/"/>
+      <url>/2018/12/08/chang-yong-wang-zhi/</url>
+      
+        <content type="html"><![CDATA[<p>微信开放社区 官方<a href="https://developers.weixin.qq.com/" target="_blank" rel="noopener">https://developers.weixin.qq.com/</a><br>微信小程序<a href="https://mp.weixin.qq.com/cgi-bin/wx" target="_blank" rel="noopener">https://mp.weixin.qq.com/cgi-bin/wx</a></p><p>微信小程序社区<a href="http://www.wxapp-union.com/portal.php" target="_blank" rel="noopener">http://www.wxapp-union.com/portal.php</a><br>Github github.com</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>微信小游戏</title>
+      <link href="/2018/12/08/wei-xin-xiao-you-xi/"/>
+      <url>/2018/12/08/wei-xin-xiao-you-xi/</url>
+      
+        <content type="html"><![CDATA[<p>微信小游戏，其实就是html5网页小游戏。<br>所以学会js代码是必须的<br>JavaScript</p><p>微信小游戏的盈利方式<br>人群流量的收益，换句话说就是广告的收益，<br>小游戏就跟公众号一样，前期积攒用户，后期就可以接广告了。<br>小游戏你打开的时候底部会出广告，或者直接弹出广告，还有的是点击广告看15s左右的视频，</p><p>推广方式<br>转发到群里可以获得道具或者复活机会，无需充钱，让你安心看广告。推广方式类似传销，所以他们的模式很简单，只要你的游戏够好</p><p>微信小游戏目前的主要入口有下面几个<br>1 群或好友分享<br>2 识别小游戏二维码<br>3 微信聊天列表页面下拉后出现最近玩过的小游戏<br>4发现-小程序<br>5 发现-游戏-我的小游戏</p><p>1底层技术<br>首先是开发语言，微信小游戏只支持 JavaScript，当然可以编译为 JS 的 TypeScript 以及 CoffeeScript 都可以作为开发语言使用。其次是小游戏所支持的游戏库 API，主要包含 HTML5 的 Canvas 2D API 和 WebGL 1.0 API，使用任何一种 API 都可以完成游戏最重要的渲染功能，不过不能够混用，除此之外，只有 WebGL 渲染模式可以支持 3D 渲染。</p><p>作者：Cocos<br>链接：<a href="https://zhuanlan.zhihu.com/p/32826363" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/32826363</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p><p>2中间件：游戏引擎<br>当然，直接使用 Canvas 2D 或 WebGL 来制作游戏是门槛很高，也非常费时费力的一件事，你肯定不希望一个小游戏项目拖上一年半载吧？所以使用 HTML5 游戏引擎其实是非常明智的选择，引擎封装出的高层接口可以大大降低开发者的开发门槛，缩短项目周期。目前国内的三家主流引擎 Cocos Creator、Egret、Laya 均已支持小游戏发布，Phaser.js、Three.js 等国外 HTML5 引擎虽然并没有支持直接发布，经过一些定制也是可以成功运行在小游戏环境中。<br>3微信 SDK<br>除此之外，微信小游戏还提供了丰富的微信内部 SDK 供开发者调用，使用这些接口可以完成用户登陆、转发、排行榜等常规的社交功能。</p><p>不过除了这些常规玩法以外，最让人欣喜的是通过转发小游戏，可以完成玩家在游戏中的组队或对战，加上小游戏即点即玩的特点，这种邀战的游戏体验可以说是天衣无缝。<br>这种群转发 + 即点即玩的机制可能带来非常有趣的社交玩法。<br>好友通过点击转发链接直接进入游戏完成组队</p><p>简单 好玩 能攀比，就这三点而言，简单 能攀比相对可控性好一些，好玩更多是仁者见仁的事，尤其对于简单的小游戏而言。<br>所以我觉得简单，能攀是微信小游戏的基本条件。<br>没有简单，什么也别谈</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>读书的重要性</title>
+      <link href="/2018/12/07/du-shu-de-chong-yao-xing/"/>
+      <url>/2018/12/07/du-shu-de-chong-yao-xing/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>世人皆苦</title>
+      <link href="/2018/12/06/shi-ren-jie-ku/"/>
+      <url>/2018/12/06/shi-ren-jie-ku/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>电影</title>
+      <link href="/2018/12/06/dian-ying/"/>
+      <url>/2018/12/06/dian-ying/</url>
+      
+        <content type="html"><![CDATA[<p>一 茶馆<br> 活着<br>阿Q正传<br>霸王别姬<br>1992年·周恩来<br>辩护人<br>1987年英国和南斯拉夫合拍的电视电影《逃离索比堡》</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>健身器械的使用</title>
+      <link href="/2018/12/05/jian-shen-qi-jie-de-shi-yong/"/>
+      <url>/2018/12/05/jian-shen-qi-jie-de-shi-yong/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://jingyan.baidu.com/article/a681b0de6d71213b184346cd.html" target="_blank" rel="noopener">https://jingyan.baidu.com/article/a681b0de6d71213b184346cd.html</a></p><h1 id="坐姿腿屈伸"><a href="#坐姿腿屈伸" class="headerlink" title="坐姿腿屈伸"></a>坐姿腿屈伸</h1><p><img src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=970124943,2466908936&amp;fm=173&amp;s=3298602343827EE62159C5D20100E0B1&amp;w=640&amp;h=471&amp;img.JPG" alt="腿屈伸训练器"></p><p>锻炼部位：股四头肌和股二头肌<br>很多人的腿部肌肉是发展不平衡的，深蹲时又会优先使用力量较强的肌肉，这就导致力量较弱的肌肉得不到锻炼。而有选择的使用这两个器械可以使得你的腿部肌肉得到均衡的锻炼，使得腿部力量更加均衡。</p><p>坐姿腿屈伸是锻炼股四头肌群的孤立发力动作，一般安排在深蹲之后的第二或第三个动作。做的时候注意几个要点：</p><p>1.调整坐姿，让器械转动轴对准膝盖位置 这样可以最大保护膝关节<br><img src="https://pic4.zhimg.com/v2-ea7d8feaeb2e106ae797fcb0f8312e8b_b.jpg" alt="同水平线"></p><p>2.双手抓住握把，勾起脚尖，用力伸直大腿</p><p>3.双腿缓慢还原，不能直接放松下落<br> 快起慢放，在动作的顶点要稍作停留，约一秒。放下时要控制器械下落速度，感受股四头肌被拉伸。</p><p> 核心肌要收紧，挺胸抬头。每组14-16次。</p><p>4 组间隔30秒，使用自己最大重量的75%，做6组。</p><p>5 集中精力感受股四头肌收缩。伸腿时呼气，曲腿时吸气</p><h1 id="俯卧腿弯曲（举）训练器"><a href="#俯卧腿弯曲（举）训练器" class="headerlink" title="俯卧腿弯曲（举）训练器"></a>俯卧腿弯曲（举）训练器</h1><h1 id="腹部前屈"><a href="#腹部前屈" class="headerlink" title="腹部前屈"></a>腹部前屈</h1><h1 id="腿举器"><a href="#腿举器" class="headerlink" title="腿举器"></a>腿举器</h1><h1 id="大腿外侧"><a href="#大腿外侧" class="headerlink" title="大腿外侧"></a>大腿外侧</h1><h1 id="大腿内侧"><a href="#大腿内侧" class="headerlink" title="大腿内侧"></a>大腿内侧</h1><h1 id="史密斯架"><a href="#史密斯架" class="headerlink" title="史密斯架"></a>史密斯架</h1><h1 id="哑铃"><a href="#哑铃" class="headerlink" title="哑铃"></a>哑铃</h1><h1 id="杠铃"><a href="#杠铃" class="headerlink" title="杠铃"></a>杠铃</h1><h1 id="大飞鸟（龙门架）"><a href="#大飞鸟（龙门架）" class="headerlink" title="大飞鸟（龙门架）"></a>大飞鸟（龙门架）</h1>]]></content>
       
       
       
