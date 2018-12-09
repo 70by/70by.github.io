@@ -3,6 +3,28 @@
   
     
     <entry>
+      <title>快捷键</title>
+      <link href="/2018/12/09/kuai-jie-jian/"/>
+      <url>/2018/12/09/kuai-jie-jian/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>图片里隐藏压缩文件</title>
+      <link href="/2018/12/09/tu-pian-li-yin-cang-ya-suo-wen-jian/"/>
+      <url>/2018/12/09/tu-pian-li-yin-cang-ya-suo-wen-jian/</url>
+      
+        <content type="html"><![CDATA[<p><img src="http://pixh456cq.bkt.clouddn.com/logoqc.gif" alt="图片里隐藏压缩文件"><br>这不是一张普通的图片，图片里面还隐藏着一个压缩包，怎么打开压缩的文件呢<br>保存图片 重命名 把后缀更改成zip ，就可以看到隐藏的压缩包了</p><p>#怎么做呢👇</p><h1 id="一-准备一张图片和需要隐藏的压缩包"><a href="#一-准备一张图片和需要隐藏的压缩包" class="headerlink" title="一 准备一张图片和需要隐藏的压缩包"></a>一 准备一张图片和需要隐藏的压缩包</h1><h1 id="二-新建一个TXT文件"><a href="#二-新建一个TXT文件" class="headerlink" title="二 新建一个TXT文件"></a>二 新建一个TXT文件</h1><p><img src="http://pixh456cq.bkt.clouddn.com/tplycyswj1.PNG" alt="新建一个txt文件"></p><h1 id="三-打开txt文件，输入代码copy-b-图片名称-后缀名-压缩包文件名称-后缀名-新文件名称-后缀名"><a href="#三-打开txt文件，输入代码copy-b-图片名称-后缀名-压缩包文件名称-后缀名-新文件名称-后缀名" class="headerlink" title="三 打开txt文件，输入代码copy/b 图片名称.后缀名+压缩包文件名称.后缀名=新文件名称.后缀名"></a>三 打开txt文件，输入代码copy/b 图片名称.后缀名+压缩包文件名称.后缀名=新文件名称.后缀名</h1><p>注意一定要输入完整的名称包括后缀名；新文件名称可以任意输入，后缀名要和图片后缀名一致。<br><img src="http://pixh456cq.bkt.clouddn.com/tplycyswj2.PNG" alt="输入代码"></p><h1 id="四-修改txt文件名称的后缀名，将txt改为bat然后点击确定"><a href="#四-修改txt文件名称的后缀名，将txt改为bat然后点击确定" class="headerlink" title="四 修改txt文件名称的后缀名，将txt改为bat然后点击确定"></a>四 修改txt文件名称的后缀名，将txt改为bat然后点击确定</h1><p><img src="http://pixh456cq.bkt.clouddn.com/tplycyswj3.PNG" alt="修改后缀"></p><h1 id="五-完成上面的步骤之后，我们拥有了三个文件：一个压缩包文件-一个图片文件-一个bat文件"><a href="#五-完成上面的步骤之后，我们拥有了三个文件：一个压缩包文件-一个图片文件-一个bat文件" class="headerlink" title="五 完成上面的步骤之后，我们拥有了三个文件：一个压缩包文件 一个图片文件 一个bat文件"></a>五 完成上面的步骤之后，我们拥有了三个文件：一个压缩包文件 一个图片文件 一个bat文件</h1><p><img src="http://pixh456cq.bkt.clouddn.com/tplycyswj4.PNG" alt="得到三个文件"></p><h1 id="六-当我们确保三个文件在同一个文件夹之后，双击bat文件，我们将得到一个新的图片文件"><a href="#六-当我们确保三个文件在同一个文件夹之后，双击bat文件，我们将得到一个新的图片文件" class="headerlink" title="六 当我们确保三个文件在同一个文件夹之后，双击bat文件，我们将得到一个新的图片文件"></a>六 当我们确保三个文件在同一个文件夹之后，双击bat文件，我们将得到一个新的图片文件</h1><p><img src="http://pixh456cq.bkt.clouddn.com/tplycyswj5.PNG" alt="新建一个txt文件"></p><h1 id="七-把新的图片文件后缀修改成隐藏压缩包文件的后缀就会变成压缩包了"><a href="#七-把新的图片文件后缀修改成隐藏压缩包文件的后缀就会变成压缩包了" class="headerlink" title="七 把新的图片文件后缀修改成隐藏压缩包文件的后缀就会变成压缩包了"></a>七 把新的图片文件后缀修改成隐藏压缩包文件的后缀就会变成压缩包了</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
       <title>2018年的第一场雪</title>
       <link href="/2018/12/08/2018-nian-de-di-yi-chang-xue/"/>
       <url>/2018/12/08/2018-nian-de-di-yi-chang-xue/</url>
