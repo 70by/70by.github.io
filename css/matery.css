@@ -356,10 +356,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
+/*.bg-cover:after {
     -webkit-animation: rainbow 60s infinite;
     animation: rainbow 60s infinite;
-}
+}*//*头部图片 颜色*/
 
 .bg-cover:before, .bg-cover:after {
     position: absolute;
